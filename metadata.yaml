@@ -1,0 +1,26 @@
+_repo: Four-Months-in-Libby-and-the-Campaign-Against-Atlanta_54065
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnston, I. N. (Isaac N.)
+    alias: Johnston, Isaac N.
+    gutenberg_agent_id: '47689'
+    url: http://www.gutenberg.org/2009/agents/47689
+description: ''
+gutenberg_issued: '2017-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Atlanta Campaign, 1864'
+- !lcsh 'United States. Army. Kentucky Infantry Regiment, 6th (1861-1864)'
+- !lcsh 'Libby Prison'
+- GITenberg
+title: Four Months in Libby and the Campaign Against Atlanta
+url: http://www.gutenberg.org/ebooks/54065
